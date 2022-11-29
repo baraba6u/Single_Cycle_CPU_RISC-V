@@ -67,8 +67,9 @@ def main():
         else:
             print("test failed")
             test_flag = 0
-        if (test_flag): print("test all passed!!")
         os.system("rm ./data/inst.mem ./data/stat.out")
+    if (test_flag): print("all tests passed!!")
+    else: print("check your code again!")
 
 
 if __name__ == '__main__':

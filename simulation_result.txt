@@ -5,46 +5,40 @@ your register values should be
 your verilog register values are
 [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 3, -4, 6, 7, 1, -5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 test passed
-test all passed!!
 starting test task1/2
 your register values should be
 [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, -20, 16, 1073741822, 1, -2, 1, 1, 0, 1, 1, 1, 0, 0, 0, 0, -5]
 your verilog register values are
 [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, -20, 16, 1073741822, 1, -2, 1, 1, 0, 1, 1, 1, 0, 0, 0, 0, -5]
 test passed
-test all passed!!
 starting test task2/1
 your register values should be
 [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, -2, -2, 7, 13, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 your verilog register values are
 [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, -2, -2, 7, 13, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 test passed
-test all passed!!
 starting test task2/2
 your register values should be
 [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 1073741824, 4, 3, 0, 3, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0]
 your verilog register values are
 [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 1073741824, 4, 3, 0, 3, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0]
 test passed
-test all passed!!
 starting test task3/1
 your register values should be
 [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 12, 3, 3, 6, 6, 4, 12, 9, 0, 0, 0, 0, 0, 0, 0, 0]
 your verilog register values are
 [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 12, 3, 3, 6, 6, 4, 12, 9, 0, 0, 0, 0, 0, 0, 0, 0]
 test passed
-test all passed!!
 starting test task4/1
 your register values should be
 [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 3, 3, 3, 3, 3, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 your verilog register values are
 [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 3, 3, 3, 3, 3, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 test passed
-test all passed!!
 starting test task5/1
 your register values should be
 [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 3, -1, 7, 20, 28, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 your verilog register values are
 [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 3, -1, 7, 20, 28, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 test passed
-test all passed!!
+all tests passed!!
