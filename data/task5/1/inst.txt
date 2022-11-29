@@ -1,0 +1,8 @@
+beq x0, x0, 12
+add x16, x1, x2
+bne x0, x1, 12
+sub x17, x1, x2
+jalr x19, x0, 4
+add x18, x3, x4
+jal x20, 4
+add x21, x4, x2
