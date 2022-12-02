@@ -1,7 +1,7 @@
-# Single_Cycle_CPU_RISC-V
+# Single_cycle_CPU_RISC-V
 
-![image](cpu%20diagram.jpg)
-[Single-Cycle CPU Diagram]
+![image](Single-cycle_CPU_diagram.jpg)
+[Single-cycle CPU Diagram]
 
 This is a single-cycle CPU for RV32I base integer instructions written in Verilog HDL. Most of the instructions are implemented except for U-type, ecall, ebreak, etc. I did this project for the Computer Architecture course at SNU.
 
