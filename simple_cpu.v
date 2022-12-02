@@ -33,7 +33,7 @@ end
 
 
 
-localparam NUM_INSTS = 16;
+localparam NUM_INSTS = 512;
 
 // instruction memory
 reg [31:0] inst_memory[0:NUM_INSTS-1];
@@ -42,7 +42,7 @@ initial $readmemb("data/inst.mem", inst_memory);
 
 // current instruction
 wire [DATA_WIDTH-1:0] instruction;
-assign instruction = inst_memory[PC[5:2]];
+assign instruction = inst_memory[PC[31:2]];
 
 
 ////////////////////////////////////////////////////
